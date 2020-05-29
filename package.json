@@ -1,0 +1,15 @@
+{
+	"name": "sales-vue",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"sales-vue": "http-server -c-1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"http-server": "^0.11.1"
+	}
+}
